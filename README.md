@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dev Full Stack
+# Kauã Augusto Nasato
 
 Desenvolvedor apaixonado por criar soluções escaláveis e bem estruturadas, com foco em qualidade de código e boas práticas de arquitetura.
 
@@ -63,5 +63,5 @@ Atuo com desenvolvimento de sistemas focados em performance, escalabilidade e ma
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-augusto-nasato-616455224/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaka.nasato@gmail.com)
