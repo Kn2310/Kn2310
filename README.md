@@ -49,18 +49,6 @@ Atuo com desenvolvimento de sistemas focados em performance, escalabilidade e ma
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kn2310&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kn2310&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-augusto-nasato-616455224/)
